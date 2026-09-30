@@ -1,0 +1,12 @@
+#Maven Build Output
+target/
+# Java compiled class
+*.class
+
+#Logs
+*.log
+
+#IDE Files
+*.swp
+.vscode/
+.idea/
