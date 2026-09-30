@@ -1,1 +1,2 @@
-# maven-application-01
+mavanApplication-02
+addition of multistage Docker file
